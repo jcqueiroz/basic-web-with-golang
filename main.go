@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ALURA/jcqueiroz/web-with-golang/routes"
+	"ALURA/jcqueiroz/basic-web-with-golang/routes"
 	"net/http"
 
 	_ "github.com/lib/pq"

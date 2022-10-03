@@ -1,7 +1,7 @@
 package models
 
 import (
-	"ALURA/jcqueiroz/web-with-golang/db"
+	"ALURA/jcqueiroz/basic-web-with-golang/db"
 )
 
 type Produto struct {

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"ALURA/jcqueiroz/web-with-golang/controllers"
+	"ALURA/jcqueiroz/basic-web-with-golang/controllers"
 	"net/http"
 )
 

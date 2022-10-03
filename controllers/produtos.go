@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"ALURA/jcqueiroz/web-with-golang/models"
+	"ALURA/jcqueiroz/basic-web-with-golang/models"
 	"log"
 	"net/http"
 	"strconv"
